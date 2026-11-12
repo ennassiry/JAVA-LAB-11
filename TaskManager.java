@@ -1,7 +1,6 @@
 package TPO1;
 import java.util.ArrayList;
 import java.util.List;
-
 public class TaskManager {
     public static void main(String[] args) {
         List<Task> tasks = new ArrayList<>();
